@@ -4,12 +4,13 @@
 3) Lisp - [ ]
 4) C++ - [ ]
 5) Python - [x]
+6) Typescript - [ ]
 
 ## Setting up enviorment
 1) Setting Visual Studio Code - [x]
 2) Setting VIM in windows terminal - [x]
 3) Configure neovim - [x]
-4) Creating neovim config and save it in repr - [ ]
+4) Creating neovim config and save it in repo - [ ]
 
 ## Rust learing
 1) Setting Rust environment - [ ]
@@ -50,3 +51,4 @@
 
 ## Projects / Ideas
 1) Embedded simulator in qemu
+2) Bookstore app (node.js + react)
